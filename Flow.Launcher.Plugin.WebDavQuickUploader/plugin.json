@@ -1,0 +1,12 @@
+{
+    "ID": "18EC912BC8014E2B887B8FB43B15CC03",
+    "ActionKeyword": "upload",
+    "Name": "WebDav Quick Uploader",
+    "Description": "A simple file uploader using WebDav",
+    "Author": "bennett-sh",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/bennett-sh/Flow.Launcher.Plugin.WebDavQuickUploader",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.WebDavQuickUploader.dll"
+}
